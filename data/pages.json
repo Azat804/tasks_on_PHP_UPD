@@ -1,0 +1,26 @@
+[
+  {
+    "uri": "index.php",
+    "alias": "my_tasks",
+    "name": "Главная страница",
+    "header": "Моя страница"
+  },
+  {
+    "uri": "second.php",
+	"alias": "2",
+    "name": "Задание 1",
+    "header": "Простые числа"
+  },
+  {
+    "uri": "rebus.php",
+	"alias": "3",
+    "name": "Задание 2",
+    "header": "Ребус"
+  },
+  {
+    "uri": "the_content.php",
+	"alias": "4",
+    "name": "Задание 3",
+    "header": "Пагинация"
+  }
+]
