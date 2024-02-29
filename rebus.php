@@ -1,7 +1,7 @@
 <?php
 
 require_once ("common/page.php"); //
-require_once ("common/a_content.php");
+require_once ("common/a_content.php"); ////
 
 class rebus {
     private array $perm;
